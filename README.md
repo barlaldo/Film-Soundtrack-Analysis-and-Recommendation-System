@@ -1,2 +1,2 @@
 # Film-Soundtrack-Analysis-and-Recommendation-System
-Creating a database to analyze film soundtracks and predict film success, alongside a Machine Learning model for personalized film recommendations based on user preferences.
+This project aims to understand the relationship between a film's genre and its soundtrack; predict a film's success based on its soundtrack; and develop a Machine Learning model that allows users to input basic information about themselves, along with a selection of favorite songs, to output several films that they may enjoy with a certain probability
